@@ -1,4 +1,4 @@
-ld Status](https://travis-ci.org/nukosuke/p6-webservice-annict.svg?branch=master)](https://travis-ci.org/nukosuke/p6-webservice-annict)
+[![Build Status](https://travis-ci.org/nukosuke/p6-webservice-annict.svg?branch=master)](https://travis-ci.org/nukosuke/p6-webservice-annict)
 
 NAME
 ====
@@ -23,5 +23,6 @@ nukosuke <nukosuke@cpan.org>
 COPYRIGHT AND LICENSE
 =====================
 
-Copyright 2016 nukosuke  
+Copyright 2016 nukosuke
+
 This software is released under the MIT License, see LICENSE.
