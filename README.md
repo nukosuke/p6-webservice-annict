@@ -1,7 +1,7 @@
 NAME
 ====
 
-WebService::Annict - blah blah blah
+WebService::Annict - Annict API interface
 
 SYNOPSIS
 ========
@@ -11,16 +11,15 @@ SYNOPSIS
 DESCRIPTION
 ===========
 
-WebService::Annict is ...
+WebService::Annict is Annict API interface
 
 AUTHOR
 ======
 
-nukosuke <nukosuke@shibuya.tech>
+nukosuke <nukosuke@cpan.org>
 
 COPYRIGHT AND LICENSE
 =====================
 
-Copyright 2016 nukosuke
-
-This library is free software; you can redistribute it and/or modify it under the Artistic License 2.0.
+Copyright 2016 nukosuke  
+This software is released under the MIT License, see LICENSE.
