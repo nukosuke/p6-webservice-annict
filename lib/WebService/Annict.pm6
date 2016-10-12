@@ -22,7 +22,7 @@ nukosuke <nukosuke@cpan.org>
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright 2016 nukosuke
+Copyright 2016 nukosuke  
 This software is released under the MIT License, see LICENSE.
 
 =end pod

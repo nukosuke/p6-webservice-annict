@@ -1,3 +1,5 @@
+ld Status](https://travis-ci.org/nukosuke/p6-webservice-annict.svg?branch=master)](https://travis-ci.org/nukosuke/p6-webservice-annict)
+
 NAME
 ====
 
