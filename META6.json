@@ -4,14 +4,14 @@
   ],
   "build-depends" : [ ],
   "depends" : [ ],
-  "description" : "blah blah blah",
+  "description" : "Annict API interface",
   "name" : "WebService::Annict",
   "perl" : "6.c",
   "provides" : {
     "WebService::Annict" : "lib/WebService/Annict.pm6"
   },
   "resources" : [ ],
-  "source-url" : "",
+  "source-url" : "git://github.com/nukosuke/p6-webservice-annict.git",
   "test-depends" : [ ],
   "version" : "*"
 }
